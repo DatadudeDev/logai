@@ -1,3 +1,18 @@
+## ⚠️🚨 **Deprecation Warning** 🚨⚠️
+
+> **This project is currently deprecated**. Development and maintenance are on hold.  
+> 
+> 🟠 **We recommend NOT using this repository for production.** 🟠  
+> 
+> 💡 Good news: [@DataDudeDev](https://github.com/DataDudeDev) is actively working to revive and improve this project! Stay tuned for updates.
+
+---
+
+
+
+
+
+
 <!--
 Copyright (c) 2023 Salesforce.com, inc.
 All rights reserved.
