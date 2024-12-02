@@ -8,19 +8,6 @@
 
 ---
 
-
-
-
-
-
-<!--
-Copyright (c) 2023 Salesforce.com, inc.
-All rights reserved.
-SPDX-License-Identifier: BSD-3-Clause
-For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
-
--->
-
 <p align="center">
     <br>
     <img src="./img/logai_logo.jpg" width="400"/>
@@ -28,14 +15,14 @@ For full license text, see the LICENSE file in the repo root or https://opensour
 </p>
 
 <div align="center">
-  <a href="https://github.com/salesforce/logai/actions/workflows/tests.yml">
-    <img alt="Latest Release" src="https://github.com/salesforce/logai/actions/workflows/tests.yml/badge.svg?branch=main" />
+  <a href="https://github.com/datadudedev/logai/actions/workflows/tests.yml">
+    <img alt="Latest Release" src="https://github.com/datadudedev/logai/actions/workflows/tests.yml/badge.svg?branch=main" />
   </a>
-  <a href="https://github.com/salesforce/logai/actions/workflows/pages/pages-build-deployment">
-    <img alt="pages-build-deployment" src="https://github.com/salesforce/logai/actions/workflows/pages/pages-build-deployment/badge.svg" />
+  <a href="https://github.com/datadudedev/logai/actions/workflows/pages/pages-build-deployment">
+    <img alt="pages-build-deployment" src="https://github.com/datadudedev/logai/actions/workflows/pages/pages-build-deployment/badge.svg" />
   </a>
-  <a href="https://github.com/salesforce/logai/releases">
-    <img alt="Latest Release" src="https://img.shields.io/github/release/salesforce/logai.svg" />
+  <a href="https://github.com/datadudedev/logai/releases">
+    <img alt="Latest Release" src="https://img.shields.io/github/release/datadudedev/logai.svg" />
   </a>
   <a href="https://badge.fury.io/py/logai">
     <img src="https://badge.fury.io/py/logai.svg" alt="PyPI version">
@@ -90,7 +77,7 @@ You can install LogAI core library using `pip install`:
 ```shell
 
 # Check out LogAI code repo from Github
-git clone https://github.com/salesforce/logai.git
+git clone https://github.com/datadudedev/logai.git
 cd logai
 
 # [Optional] Create virtual environment
@@ -138,7 +125,7 @@ You can also start a local LogAI service and use the GUI portal to explore LogAI
 ```shell
 
 # Check out LogAI code repo from Github
-git clone https://github.com/salesforce/logai.git
+git clone https://github.com/datadudedev/logai.git
 cd logai
 
 # [Optional] Create virtual environment
@@ -292,29 +279,13 @@ detection benchmarking on different datasets and algorithms can be found in
 ## Documentation
 
 For more detail about LogAI library and advanced use cases, please visit 
-[LogAI Documentation](https://opensource.salesforce.com/logai).
+[LogAI Documentation](https://opensource.datadudedev.com/logai).
 
 ## Technical Report and Citing LogAI
 
 You can find more details about LogAI in the [technical report](https://arxiv.org/abs/2301.13415). 
 If you're using LogAI in your research or applications, please cite using this BibTeX:
 
-```
-@misc{https://doi.org/10.48550/arxiv.2301.13415,
-    title = {LogAI: A Library for Log Analytics and Intelligence},
-    author = {Cheng, Qian and Saha, Amrita and Yang, Wenzhuo and Liu, Chenghao and Sahoo, Doyen and Hoi, Steven},
-    publisher = {arXiv},
-    year = {2023},
-    doi = {10.48550/ARXIV.2301.13415},
-    url = {https://arxiv.org/abs/2301.13415},
-    copyright = {arXiv.org perpetual, non-exclusive license}
-}
-
-```
-
-## Contact
-If you have any questions, comments or suggestions, 
-please do not hesitate to contact us at [logai@salesforce.com](logai@salesforce.com). 
 
 ## License
 [BSD 3-Clause License](LICENSE.txt)
