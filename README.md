@@ -4,7 +4,7 @@
 > 
 > 🟠 **We recommend NOT using this repository for production.** 🟠  
 > 
-> 💡 Good news: [@DataDudeDev](https://github.com/DataDudeDev) is actively working to revive and improve this project! Stay tuned for updates.
+> 💡 Good news: [@DatadudeDev](https://github.com/DatadudeDev) is actively working to revive and improve this project! Stay tuned for updates.
 
 ---
 
